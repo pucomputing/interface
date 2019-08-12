@@ -8,16 +8,16 @@ export default function CustomNavbar() {
             <Navbar.Brand href="/">
                 <img
                 alt=""
-                src="/assets/img/logo/square.png"
-                width="30"
+                src="/assets/img/logo/horizontal-white.png"
+                width="150"
                 height="30"
                 className="d-inline-block align-top"
                 />
-                {' PUComputing'}
+                {/* {' PUComputing'} */}
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
-                <Nav className="mr-auto">
+                <Nav className="ml-auto">
                     <Link to="/" className="nav-link">Home</Link>
                     <Link to="/about" className="nav-link">About</Link>
                     <Link to="/contact" className="nav-link">Contact</Link>

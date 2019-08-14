@@ -13,11 +13,11 @@ export default function CustomNavbar() {
                 height="30"
                 className="d-inline-block align-top"
                 />
-                {' PUComputing'}
+                {/* {' PUComputing'} */}
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
-                <Nav className="mr-auto">
+                <Nav className="ml-auto">
                     <Link to="/" className="nav-link">Home</Link>
                     <Link to="/about" className="nav-link">About</Link>
                     <Link to="/contact" className="nav-link">Contact</Link>

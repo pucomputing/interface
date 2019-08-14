@@ -17,7 +17,7 @@ export default function PageAbout() {
                 </Row>
             </Container>
             <Container style={{marginTop: '80px', marginBottom: '80px'}}>
-                <h2>Computing Dead and Head Study Program</h2>
+                <h2>Computing Dean and Head Study Program</h2>
                 <Row>
                     <Col>
                         <img alt="Mr. Nur" style={{width: '100%', height: 'auto' }} src="/static/img/lecturer/nur.jpg" />

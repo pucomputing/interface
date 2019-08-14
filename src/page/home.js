@@ -17,17 +17,16 @@ export default function PageHome() {
                     </Carousel.Caption> */}
                 </Carousel.Item>
             </Carousel>
-            <Container style={{marginTop: '80px', marginBottom: '80px'}}>
+            <Container style={{ marginTop: '80px', marginBottom: '80px' }}>
                 <h2>Latest Blogs</h2>
                 <Row>
                     <Col>
                         <Card>
                             <Card.Img variant="top" style={{width: '100%', height: '100%' }} src="/static/blog/sopu01.jpg" />
                             <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
-                            <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                <Card.Title>Computing in SOPU 2019</Card.Title>
+                                <Card.Text>
+                                    Sports Olympiad of President University (SOPU) is one of the biggest events that held by President University Student Union (PUSU). It was held as an annual championship of.
                             </Card.Text>
                             </Card.Body>
                         </Card>

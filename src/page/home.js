@@ -8,7 +8,7 @@ export default function PageHome() {
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src="/assets/img/member/whole.jpg"
+                    src="/static/img/member/whole.jpg"
                     alt="First slide"
                     />
                     {/* <Carousel.Caption>
@@ -22,7 +22,7 @@ export default function PageHome() {
                 <Row>
                     <Col>
                         <Card>
-                            <Card.Img variant="top" style={{width: '100%', height: '100%' }} src="/assets/blog/sopu01.jpg" />
+                            <Card.Img variant="top" style={{width: '100%', height: '100%' }} src="/static/blog/sopu01.jpg" />
                             <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>

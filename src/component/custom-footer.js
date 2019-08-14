@@ -6,7 +6,7 @@ export default function CustomFooter() {
     <Container>
         <Row>
             <Col>
-                <img alt="PUMA Computing logo black" style={{width: '100%', height: '100%'}} src="/assets/img/logo/horizontal-black-complete.png" />
+                <img alt="PUMA Computing logo black" style={{width: '100%', height: '100%'}} src="/static/img/logo/horizontal-black-complete.png" />
             </Col>
             <Col>
                 <h4>{ 'Information' }</h4>

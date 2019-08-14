@@ -8,7 +8,7 @@ export default function PageAbout() {
                 <h2>Faculty of Computing</h2>
                 <Row>
                     <Col>
-                        <img alt="Faculty of Computing" style={{width: '100%', height: 'auto' }} src="/assets/img/faculty.png" />
+                        <img alt="Faculty of Computing" style={{width: '100%', height: 'auto' }} src="/static/img/faculty.png" />
                     </Col>
                     <Col>
                         <p>Computer Science is the theoritical study and practical application of computation, including topics such as: design and maintenance of software systems, distributed systems, human-computer interaction, computational modeling, artificial intelligence, mobile computing, programming languages, image processing, and computer graphics. With the rapidly growing technology industry, the use of information technology in almost every corner of human activity continue to create opportunities for our graduates.</p>
@@ -20,13 +20,13 @@ export default function PageAbout() {
                 <h2>Computing Dead and Head Study Program</h2>
                 <Row>
                     <Col>
-                        <img alt="Mr. Nur" style={{width: '100%', height: 'auto' }} src="/assets/img/lecturer/nur.jpg" />
+                        <img alt="Mr. Nur" style={{width: '100%', height: 'auto' }} src="/static/img/lecturer/nur.jpg" />
                     </Col>
                     <Col>
-                        <img alt="Mr. Rila" style={{width: '100%', height: 'auto' }} src="/assets/img/lecturer/rila.jpg" />
+                        <img alt="Mr. Rila" style={{width: '100%', height: 'auto' }} src="/static/img/lecturer/rila.jpg" />
                     </Col>
                     <Col>
-                        <img alt="Mr. Rikip" style={{width: '100%', height: 'auto' }} src="/assets/img/lecturer/rikip.jpg" />
+                        <img alt="Mr. Rikip" style={{width: '100%', height: 'auto' }} src="/static/img/lecturer/rikip.jpg" />
                     </Col>
                 </Row>
             </Container>
@@ -34,7 +34,7 @@ export default function PageAbout() {
                 <h2>About PUMA Computing</h2>
                 <Row>
                     <Col>
-                        <img alt="PUMA Computing logo black" style={{width: '100%', height: 'auto' }} src="/assets/img/logo/horizontal-black-complete.png" />
+                        <img alt="PUMA Computing logo black" style={{width: '100%', height: 'auto' }} src="/static/img/logo/horizontal-black-complete.png" />
                     </Col>
                     <Col>
                         <p>Computer Science is the theoritical study and practical application of computation, including topics such as: design and maintenance of software systems, distributed systems, human-computer interaction, computational modeling, artificial intelligence, mobile computing, programming languages, image processing, and computer graphics. With the rapidly growing technology industry, the use of information technology in almost every corner of human activity continue to create opportunities for our graduates.</p>

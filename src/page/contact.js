@@ -82,6 +82,9 @@ export default class PageContact extends Component {
 
     render = () => (
         <div>
+            <Container style={{marginTop: '80px'}}>
+                <h1 align="center">Contact Us</h1>
+            </Container>
             <Container style={{marginTop: '80px', marginBottom: '80px'}}>
                 <Row>
                     <Col sm>

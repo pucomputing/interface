@@ -4,6 +4,9 @@ import { Container, Row, Col } from 'react-bootstrap';
 export default function PageAbout() {
     return (
         <div>
+            <Container style={{marginTop: '80px'}}>
+                <h1 align="center">About Us</h1>
+            </Container>
             <Container style={{marginTop: '80px', marginBottom: '80px'}}>
                 <h2>Faculty of Computer Science</h2>
                 <Row>

@@ -20,7 +20,7 @@ export default function PageHome() {
             <Container style={{ marginTop: '80px', marginBottom: '80px' }}>
                 <h2>Latest Blogs</h2>
                 <Row>
-                    <Col>
+                    <Col sm>
                         <Card>
                             <Card.Img variant="top" style={{width: '100%', height: '100%' }} src="/static/blog/sopu01.jpg" />
                             <Card.Body>
@@ -31,9 +31,9 @@ export default function PageHome() {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col>
+                    <Col sm>
                     </Col>
-                    <Col>
+                    <Col sm>
                     </Col>
                 </Row>
             </Container>

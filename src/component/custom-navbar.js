@@ -8,8 +8,8 @@ export default function CustomNavbar() {
             <Navbar.Brand href="/">
                 <img
                 alt=""
-                src="/static/img/logo/square.png"
-                width="30"
+                src="/static/img/logo/horizontal-white.png"
+                width="150"
                 height="30"
                 className="d-inline-block align-top"
                 />
